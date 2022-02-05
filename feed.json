@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fourth Time Lucky v2",
+    "description": "",
+    "home_page_url": "https://pjcavan.github.io/gh-pages",
+    "feed_url": "https://pjcavan.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Peter Cavan"
+    },
+    "items": [
+    ]
+}
