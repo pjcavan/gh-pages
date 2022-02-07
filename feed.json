@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Fourth Time Lucky v2",
+    "title": "Fourth Time Lucky",
     "description": "",
     "home_page_url": "https://pjcavan.github.io/gh-pages",
     "feed_url": "https://pjcavan.github.io/gh-pages/feed.json",
@@ -9,5 +9,47 @@
         "name": "Peter Cavan"
     },
     "items": [
+        {
+            "id": "https://pjcavan.github.io/gh-pages/expensive-lemonade.html",
+            "url": "https://pjcavan.github.io/gh-pages/expensive-lemonade.html",
+            "title": "Expensive Lemonade",
+            "summary": " Let’s say you run a lemonade stand where you usually sell a cup for $1. A grandparent pays you a year in advance for one lemonade per week, whether or not they turn up, at 80c each. You get a check for $41.60 -&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pjcavan.github.io/gh-pages/media/posts/1/Lemonade.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-xs.jpeg 300w ,https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-sm.jpeg 480w ,https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-md.jpeg 768w ,https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-lg.jpeg 1024w ,https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-xl.jpeg 1360w ,https://pjcavan.github.io/gh-pages/media/posts/1/responsive/Lemonade-2xl.jpeg 1600w\"  alt=\"glass of lemonade\" width=\"3375\" height=\"2250\"></figure>\n<p>Let’s say you run a lemonade stand where you usually sell a cup for $1.</p>\n<p>A grandparent pays you a year in advance for one lemonade per week, whether or not they turn up, at 80c each. You get a check for $41.60 - you’re happy.</p>\n<p>There’s a drought and you’re the only drinks seller in the area. You sell for $5/cup that week. Some people grumble that it’s expensive but buy it anyway. When your grandparent turns up, they’re still getting their cup for the 80c they already paid.</p>\n<p>After the drought ends, your HOA says that selling at $5 was unfair so you must reprice to $2 - you have to give $3 back to everybody you sold at $5 to. If someone knew you sold 100 cups that week, they could say $300 would be returned to customers. Imagine the headlines in the neighbourhood newspaper - “lemonade stand must fix $300 pricing error!” How embarrasing.</p>\n<p>But, $300 won’t be returned. Your grandparent bought at 80c - there’s nothing to return to them. If you had lots of those deals, the total returned might be far, far less than $300.</p>",
+            "author": {
+                "name": "Peter Cavan"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-11T21:09:00-08:00",
+            "date_modified": "2022-02-05T21:09:35-08:00"
+        },
+        {
+            "id": "https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs.html",
+            "url": "https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs.html",
+            "title": "Brexit: Incompatible Plugs",
+            "summary": " I’m a sucker for KAL comics, and European political commentary, and electric industry references. This comic works for me. ",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pjcavan.github.io/gh-pages/media/posts/3/BrexitPlugs.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-xs.jpg 300w ,https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-sm.jpg 480w ,https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-md.jpg 768w ,https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-lg.jpg 1024w ,https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-xl.jpg 1360w ,https://pjcavan.github.io/gh-pages/media/posts/3/responsive/BrexitPlugs-2xl.jpg 1600w\"  alt=\"KAL comic from the Economist\" width=\"1024\" height=\"706\"></figure>\n<p>I’m a sucker for KAL comics, and European political commentary, and electric industry references. This comic works for me. </p>",
+            "author": {
+                "name": "Peter Cavan"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-20T17:01:00-08:00",
+            "date_modified": "2022-02-06T17:01:31-08:00"
+        },
+        {
+            "id": "https://pjcavan.github.io/gh-pages/snow-on-coast.html",
+            "url": "https://pjcavan.github.io/gh-pages/snow-on-coast.html",
+            "title": "Snow on Coast",
+            "summary": " My brother-in-law’s Bug, parked on the North coast of the Olympic Peninsula in Washington state on Thursday 7 and Friday 8th. Yes, it snows in WA. No, most drivers can’t handle it.",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pjcavan.github.io/gh-pages/media/posts/2/Bug1.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-xs.jpg 300w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-sm.jpg 480w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-md.jpg 768w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-lg.jpg 1024w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-xl.jpg 1360w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug1-2xl.jpg 1600w\"  alt=\"VW bug amongst snow\" width=\"2048\" height=\"1152\"></figure>\n<p>My brother-in-law’s Bug, parked on the North coast of the Olympic Peninsula in Washington state on Thursday 7 and Friday 8th.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pjcavan.github.io/gh-pages/media/posts/2/Bug2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-xs.jpg 300w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-sm.jpg 480w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-md.jpg 768w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-lg.jpg 1024w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-xl.jpg 1360w ,https://pjcavan.github.io/gh-pages/media/posts/2/responsive/Bug2-2xl.jpg 1600w\"  alt=\"VW Bug in snow\" width=\"2048\" height=\"1152\"></figure>\n<p>Yes, it snows in WA. No, most drivers can’t handle it.</p>",
+            "author": {
+                "name": "Peter Cavan"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-19T09:11:00-08:00",
+            "date_modified": "2022-02-06T17:00:14-08:00"
+        }
     ]
 }
