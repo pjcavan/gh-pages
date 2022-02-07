@@ -3,21 +3,23 @@
     <title>Fourth Time Lucky</title>
     <link href="https://pjcavan.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://pjcavan.github.io/gh-pages" />
-    <updated>2022-02-06T18:13:55-08:00</updated>
+    <updated>2022-02-06T18:22:56-08:00</updated>
     <author>
-        <name>Peter Cavan</name>
+        <name>Peter J. Cavan</name>
     </author>
     <id>https://pjcavan.github.io/gh-pages</id>
 
     <entry>
         <title>Short Power in Long Island</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/short-power-in-long-island.html"/>
-        <id>https://pjcavan.github.io/gh-pages/short-power-in-long-island.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/short-power-in-long-island/"/>
+        <id>https://pjcavan.github.io/gh-pages/short-power-in-long-island/</id>
+            <category term="new york"/>
+            <category term="energy"/>
 
-        <updated>2022-02-06T18:13:55-08:00</updated>
+        <updated>2022-02-06T18:19:58-08:00</updated>
             <summary>
                 <![CDATA[
                     Friday 13th update: LIPA is telling its customers to cut "all nonessential" usage this afternoon as they struggle with the&hellip;
@@ -51,12 +53,14 @@
     <entry>
         <title>Expensive Lemonade</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/expensive-lemonade.html"/>
-        <id>https://pjcavan.github.io/gh-pages/expensive-lemonade.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/expensive-lemonade/"/>
+        <id>https://pjcavan.github.io/gh-pages/expensive-lemonade/</id>
+            <category term="energy"/>
+            <category term="analogy"/>
 
-        <updated>2022-02-05T21:09:35-08:00</updated>
+        <updated>2022-02-06T18:22:56-08:00</updated>
             <summary>
                 <![CDATA[
                      Let’s say you run a lemonade stand where you usually sell a cup for $1. A grandparent pays you&hellip;
@@ -68,7 +72,7 @@
 <p>Let’s say you run a lemonade stand where you usually sell a cup for $1.</p>
 <p>A grandparent pays you a year in advance for one lemonade per week, whether or not they turn up, at 80c each. You get a check for $41.60 - you’re happy.</p>
 <p>There’s a drought and you’re the only drinks seller in the area. You sell for $5/cup that week. Some people grumble that it’s expensive but buy it anyway. When your grandparent turns up, they’re still getting their cup for the 80c they already paid.</p>
-<p>After the drought ends, your HOA says that selling at $5 was unfair so you must reprice to $2 - you have to give $3 back to everybody you sold at $5 to. If someone knew you sold 100 cups that week, they could say $300 would be returned to customers. Imagine the headlines in the neighbourhood newspaper - “lemonade stand must fix $300 pricing error!” How embarrasing.</p>
+<p>After the drought ends, your HOA says that selling at $5 was unfair so you must reprice to $2 - you have to give $3 back to everybody you sold at $5 to. If someone knew you sold 100 cups that week, they could say $300 would be returned to customers. Imagine the headlines in the neighborhood newspaper - “lemonade stand must fix $300 pricing error!” How embarrassing.</p>
 <p>But, $300 won’t be returned. Your grandparent bought at 80c - there’s nothing to return to them. If you had lots of those deals, the total returned might be far, far less than $300.</p>
             ]]>
         </content>
@@ -76,12 +80,13 @@
     <entry>
         <title>Brexit: Incompatible Plugs</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs.html"/>
-        <id>https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs/"/>
+        <id>https://pjcavan.github.io/gh-pages/brexit-incompatible-plugs/</id>
+            <category term="comic"/>
 
-        <updated>2022-02-06T17:01:31-08:00</updated>
+        <updated>2022-02-06T18:22:13-08:00</updated>
             <summary>
                 <![CDATA[
                      I’m a sucker for KAL comics, and European political commentary, and electric industry references. This comic works for me. 
@@ -97,12 +102,13 @@
     <entry>
         <title>Snow on Coast</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/snow-on-coast.html"/>
-        <id>https://pjcavan.github.io/gh-pages/snow-on-coast.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/snow-on-coast/"/>
+        <id>https://pjcavan.github.io/gh-pages/snow-on-coast/</id>
+            <category term="winter"/>
 
-        <updated>2022-02-06T17:00:14-08:00</updated>
+        <updated>2022-02-06T18:22:38-08:00</updated>
             <summary>
                 <![CDATA[
                      My brother-in-law’s Bug, parked on the North coast of the Olympic Peninsula in Washington state on Thursday 7 and&hellip;
@@ -120,12 +126,14 @@
     <entry>
         <title>Global Optimization Frozen in Amber</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/global-optimization-frozen-in-amber.html"/>
-        <id>https://pjcavan.github.io/gh-pages/global-optimization-frozen-in-amber.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/global-optimization-frozen-in-amber/"/>
+        <id>https://pjcavan.github.io/gh-pages/global-optimization-frozen-in-amber/</id>
+            <category term="ontario"/>
+            <category term="energy"/>
 
-        <updated>2022-02-06T18:10:40-08:00</updated>
+        <updated>2022-02-06T18:20:12-08:00</updated>
             <summary>
                 <![CDATA[
                     Ontario is fixing what businesses pay for a coincident peak demand charge - Global Adjustment (GA) - for two years.
@@ -156,12 +164,14 @@
     <entry>
         <title>IPv6 in 2020</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/ipv6-in-2020.html"/>
-        <id>https://pjcavan.github.io/gh-pages/ipv6-in-2020.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/ipv6-in-2020/"/>
+        <id>https://pjcavan.github.io/gh-pages/ipv6-in-2020/</id>
+            <category term="tech"/>
+            <category term="chart"/>
 
-        <updated>2022-02-06T18:04:25-08:00</updated>
+        <updated>2022-02-06T18:20:53-08:00</updated>
             <summary>
                 <![CDATA[
                      Briefly looked into “how is IPv6 deployment going”. Two notes: the data is very noisy, in large part due&hellip;
@@ -188,12 +198,14 @@
     <entry>
         <title>LPG Explosion in Zhejiang Province </title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/lpg-explosion-in-zhejiang-province.html"/>
-        <id>https://pjcavan.github.io/gh-pages/lpg-explosion-in-zhejiang-province.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/lpg-explosion-in-zhejiang-province/"/>
+        <id>https://pjcavan.github.io/gh-pages/lpg-explosion-in-zhejiang-province/</id>
+            <category term="energy"/>
+            <category term="china"/>
 
-        <updated>2022-02-06T18:02:59-08:00</updated>
+        <updated>2022-02-06T18:21:23-08:00</updated>
             <summary>
                 <![CDATA[
                      This is what happens when an LPG truck crashes into a factory. As of today (Sunday 14th), local media&hellip;
@@ -216,12 +228,14 @@
     <entry>
         <title>Accidental Tech Podcast - Notes</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/accidental-tech-podcast-notes.html"/>
-        <id>https://pjcavan.github.io/gh-pages/accidental-tech-podcast-notes.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/accidental-tech-podcast-notes/"/>
+        <id>https://pjcavan.github.io/gh-pages/accidental-tech-podcast-notes/</id>
+            <category term="tech"/>
+            <category term="podcast"/>
 
-        <updated>2022-02-06T18:01:56-08:00</updated>
+        <updated>2022-02-06T18:21:41-08:00</updated>
             <summary>
                 <![CDATA[
                     I’ve been working through the back catalog of the Accidental Tech Podcast, a long-running technology show by Marco Arment, Casey&hellip;
@@ -453,12 +467,15 @@ Two clarifications:
     <entry>
         <title>Hello and Goodbye to Hey</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/hello-and-goodbye-to-hey.html"/>
-        <id>https://pjcavan.github.io/gh-pages/hello-and-goodbye-to-hey.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/hello-and-goodbye-to-hey/"/>
+        <id>https://pjcavan.github.io/gh-pages/hello-and-goodbye-to-hey/</id>
+            <category term="tech"/>
+            <category term="email"/>
+            <category term="basecamp"/>
 
-        <updated>2022-02-06T18:08:23-08:00</updated>
+        <updated>2022-02-06T18:21:06-08:00</updated>
             <summary>
                 <![CDATA[
                     I was invited to Basecamp’s Hey email beta on June 16, and finally got around to playing with it this week. It’s&hellip;
@@ -518,12 +535,14 @@ Two clarifications:
     <entry>
         <title>99 Beers at the Great American Beer Festival 2019</title>
         <author>
-            <name>Peter Cavan</name>
+            <name>Peter J. Cavan</name>
         </author>
-        <link href="https://pjcavan.github.io/gh-pages/99-beers-at-the-great-american-beer-festival-2019-2.html"/>
-        <id>https://pjcavan.github.io/gh-pages/99-beers-at-the-great-american-beer-festival-2019-2.html</id>
+        <link href="https://pjcavan.github.io/gh-pages/99-beers-at-the-great-american-beer-festival-2019-2/"/>
+        <id>https://pjcavan.github.io/gh-pages/99-beers-at-the-great-american-beer-festival-2019-2/</id>
+            <category term="colorado"/>
+            <category term="beer"/>
 
-        <updated>2022-02-06T17:30:56-08:00</updated>
+        <updated>2022-02-06T18:21:59-08:00</updated>
             <summary>
                 <![CDATA[
                      Ashiyah and I visited this year’s Great American Beer Festival in Denver. It brings over 800 breweries and 4,000&hellip;
